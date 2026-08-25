@@ -368,7 +368,7 @@ footer span {
 
     font-size: 11px;
 }
-footer strong{ color: #d4af37;}
+footer a { color: #d4af37;}
 
 /* =========================
    DESKTOP
@@ -381,6 +381,7 @@ footer strong{ color: #d4af37;}
     }
 
     .page {
+    
         border-radius: 25px;
 
         overflow: hidden;
