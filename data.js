@@ -70,7 +70,7 @@ const client = {
         {
             name: "💈 Coiffure & Styling"
         }
-
+    
     ]
 
 };
