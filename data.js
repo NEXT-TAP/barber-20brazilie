@@ -4,9 +4,9 @@ const client = {
     // INFORMATIONS DU SALON
     // ==============================
 
-    name: "صالون برازيلي ",
+    name: "صالون برازيلي Brazilian salon",
 
-    category: "Brazilian salon",
+    category: "Coiffeur Homme",
 
     description: "Votre style, notre savoir-faire.",
 
@@ -52,25 +52,25 @@ const client = {
     services: [
 
         {
-            name: "✂️ Coupe & Coiffure"
+            name: "Coupe classique"
         },
 
         {
-            name: "🪒 Taille & Soin de la Barbe"
+            name: "Dégradé"
         },
 
         {
-            name: "🧖 Gommage & Soin du Visage"
+            name: "Barbe"
         },
 
         {
-            name: "🎨 Coloration des Cheveux"
+            name: "Coupe + Barbe"
         },
 
         {
-            name: "💈 Coiffure & Styling"
+            name: "Taille de barbe"
         }
-    
+
     ]
 
 };
